@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33840" started-at="2017-02-02T11:14:58Z" finished-at="2017-02-02T11:15:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33840" started-at="2017-02-02T11:14:58Z" finished-at="2017-02-02T11:15:32Z">
+      <class name="com.scripts.ScrollPage">
+        <test-method status="PASS" signature="browSetup()[pri:0, instance:com.scripts.ScrollPage@4883b407]" name="browSetup" is-config="true" duration-ms="2967" started-at="2017-02-02T16:44:58Z" finished-at="2017-02-02T16:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browSetup -->
+        <test-method status="PASS" signature="VerifyScroll()[pri:0, instance:com.scripts.ScrollPage@4883b407]" name="VerifyScroll" duration-ms="30844" started-at="2017-02-02T16:45:01Z" finished-at="2017-02-02T16:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyScroll -->
+      </class> <!-- com.scripts.ScrollPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
